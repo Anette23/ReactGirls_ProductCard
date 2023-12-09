@@ -5,7 +5,7 @@ const Header = () => {
     <header className="bg-secondary p-4 lg:px-20 lg:py-6 flex justify-between items-center">
       <div className="flex items-center">
         <p className="text-text text-4xl font-bold font-headings">Lenovo</p>   
-        <nav className="ml-14 hidden lg:block">
+        <nav className="ml-56 hidden lg:block">
           <ul className="flex space-x-4">
             <li className="text-text font-medium hover:font-bold transition duration-300">Produkty</li>
             <li className="text-text font-medium hover:font-bold transition duration-300">Kategórie</li>
